@@ -29,11 +29,11 @@
 
 ---
 
-## 📦 Featured Repositories (Coming Soon)
+## Featured Repositories
 
-* Harmony System Design
-* XR AI Experiments
-* Spatial Intelligence Notes
+* [harmony-system-design](https://github.com/varunlabs/harmony-system-design) - Spatial Intelligence framework (XR + AI)
+* [OpenSpatialAI](https://github.com/varunlabs/OpenSpatialAI) - OpenXR-native platform for spatial intelligence and context-aware XR
+* [xr-ai-experiments](https://github.com/varunlabs/xr-ai-experiments) - Experiments and prototypes exploring XR + AI integration
 
 ---
 
