@@ -39,8 +39,10 @@
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/varunkumarsiddaraju/
-* Website: https://varuninnovates.com
+* LinkedIn: [linkedin.com/in/varunsiddaraju](https://www.linkedin.com/in/varunsiddaraju/)
+* Personal: [varunsiddaraju.com](https://varunsiddaraju.com)
+* Public Lab: [varuninnovates.com](https://varuninnovates.com)
+* Commercial: [veeruby.com](https://veeruby.com)
 
 ---
 
