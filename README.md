@@ -1,7 +1,6 @@
 # Hi, I'm Varun 👋
 
-### XR/AI Researcher • Systems Thinker • Founder @ Veeruby
-
+### XR + AI Systems Researcher · Context-Aware Spatial Computing
 ---
 
 ## 🚀 What I'm Building
