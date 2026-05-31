@@ -1,6 +1,6 @@
 # Hi, I'm Varun 👋
 
-### XR + AI Systems Researcher · Context-Aware Spatial Computing
+### XR + AI Systems Researcher · Context-Aware Spatial Computing · Founder @ VeeRuby
 ---
 
 ## 🚀 What I'm Building
@@ -42,6 +42,7 @@
 * Personal: [varunsiddaraju.com](https://varunsiddaraju.com)
 * Public Lab: [varuninnovates.com](https://varuninnovates.com)
 * Commercial: [veeruby.com](https://veeruby.com)
+* YouTube: [@varunsiddaraju](https://youtube.com/@varunsiddaraju)
 
 ---
 
