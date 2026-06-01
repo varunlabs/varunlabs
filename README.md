@@ -1,6 +1,6 @@
 # Hi, I'm Varun 👋
 
-### XR + AI Systems Researcher · Context-Aware Spatial Computing
+### XR + AI Systems Researcher · Context-Aware Spatial Systems
 ---
 
 ## 🚀 What I'm Building
